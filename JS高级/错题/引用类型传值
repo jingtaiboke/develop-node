@@ -1,0 +1,21 @@
+1.
+
+```
+ var a = { name: "Tom" };
+      function fn(obj) {
+        obj = { age: 12 };
+      }
+      fn(a);
+      console.log(a);
+```
+
+2.
+
+```
+ function fn(b) {
+        a = b + 1;
+      }
+      fn(a);
+      console.log(a);
+```
+

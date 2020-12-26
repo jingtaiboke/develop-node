@@ -1,0 +1,1 @@
+<h1>*{ touch-action: pan-y; }</h1>

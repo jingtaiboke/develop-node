@@ -1,0 +1,3 @@
+foreach迭代找到元素后return无法终止循环
+
+some一旦找到就会返回true并停止循环

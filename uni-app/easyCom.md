@@ -1,0 +1,1 @@
+<strong>easyCom components/组件名/组件名.vue</strong> 局部引入

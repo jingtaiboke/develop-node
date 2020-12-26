@@ -1,0 +1,3 @@
+conten-box里的width，height不包括边框
+
+border-box包括外边框和内边框
