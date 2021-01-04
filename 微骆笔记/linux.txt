@@ -1,0 +1,4 @@
+用户名:tarrowtmo
+密码:
+目录:C:\Users\15062\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs
+启动命令:beanstalkd
